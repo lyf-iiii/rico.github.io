@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://falconlabs.ai
+
+# Sitemaps
+Sitemap: https://falconlabs.ai/sitemap.xml
